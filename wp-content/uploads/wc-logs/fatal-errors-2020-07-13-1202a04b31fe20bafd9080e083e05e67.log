@@ -1,0 +1,20 @@
+2020-07-13T10:12:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor.php à la ligne 489
+
+2020-07-13T10:14:24+00:00 CRITICAL Out of memory (allocated 111149056) (tried to allocate 8192 bytes) dans C:\xampp\htdocs\wordpress\wp-includes\media.php à la ligne 3166
+
+2020-07-13T10:14:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php à la ligne 191
+
+2020-07-13T10:18:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php à la ligne 84
+
+2020-07-13T10:22:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php à la ligne 19
+
+2020-07-13T10:22:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-13T10:22:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php à la ligne 267
+
+2020-07-13T10:48:43+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 2621440 bytes) dans C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\includes\admin\class-welcome.php à la ligne 130
+
+2020-07-13T10:58:44+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\controls.php à la ligne 681
+
+2020-07-13T11:04:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\widgets\class-wp-widget-text.php à la ligne 570
+
